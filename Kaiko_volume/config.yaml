@@ -1,7 +1,12 @@
 denovo:
   multi_decode: true
-  mgf_dir: Kaiko_volume/Kaiko_input_files/mgf_large
+  mgf_dir: Kaiko_volume/Kaiko_input_files/S1_NM0001_NMDC_MixedCommunities_R3_mgf
+  cached : true
 diamond tally:
   diamond_folder: Kaiko_volume/Kaiko_stationary_files/diamond-2.0.15
+  cached : true
+  n_protein_cutoff: 7000000
+taxa to fasta:
+  ntops: 12
 
 
