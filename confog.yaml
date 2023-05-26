@@ -5,6 +5,6 @@ denovo:
 diamond tally:
   diamond_folder: Kaiko_volume/Kaiko_stationary_files/diamond-2.0.15
   cached : true
-  n_protein_cutoff: 69000
+  n_protein_cutoff: 117000
 
 

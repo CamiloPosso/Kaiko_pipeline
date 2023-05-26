@@ -168,3 +168,6 @@ Kaiko_denovo_tf1.15.0
 tf2.0.0_variable_names.txt
 tf_updgrade_report.txt
 *.pptx
+uniref100_sanity_checks.ipynb
+taxa_stats_corrected.txt
+taxa_member_stats.txt
